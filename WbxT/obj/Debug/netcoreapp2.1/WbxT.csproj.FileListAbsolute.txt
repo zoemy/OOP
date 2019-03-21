@@ -1,0 +1,14 @@
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\bin\Debug\netcoreapp2.1\WbxT.deps.json
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\bin\Debug\netcoreapp2.1\WbxT.runtimeconfig.json
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\bin\Debug\netcoreapp2.1\WbxT.runtimeconfig.dev.json
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\bin\Debug\netcoreapp2.1\WbxT.dll
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\bin\Debug\netcoreapp2.1\WbxT.pdb
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\bin\Debug\netcoreapp2.1\WbxTraining.dll
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\bin\Debug\netcoreapp2.1\WbxTraining.pdb
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\obj\Debug\netcoreapp2.1\WbxT.csprojAssemblyReference.cache
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\obj\Debug\netcoreapp2.1\WbxT.csproj.CoreCompileInputs.cache
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\obj\Debug\netcoreapp2.1\WbxT.AssemblyInfoInputs.cache
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\obj\Debug\netcoreapp2.1\WbxT.AssemblyInfo.cs
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\obj\Debug\netcoreapp2.1\WbxT.csproj.CopyComplete
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\obj\Debug\netcoreapp2.1\WbxT.dll
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\Training\WbxT\obj\Debug\netcoreapp2.1\WbxT.pdb

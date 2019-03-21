@@ -1,0 +1,17 @@
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\WbxTraining.Tests.deps.json
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\WbxTraining.Tests.runtimeconfig.json
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\WbxTraining.Tests.runtimeconfig.dev.json
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\WbxTraining.Tests.dll
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\WbxTraining.Tests.pdb
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\obj\Debug\netcoreapp2.1\WbxTraining.Tests.csprojAssemblyReference.cache
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\obj\Debug\netcoreapp2.1\WbxTraining.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\obj\Debug\netcoreapp2.1\WbxTraining.Tests.AssemblyInfoInputs.cache
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\obj\Debug\netcoreapp2.1\WbxTraining.Tests.AssemblyInfo.cs
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\obj\Debug\netcoreapp2.1\WbxTraining.Tests.dll
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\obj\Debug\netcoreapp2.1\WbxTraining.Tests.pdb
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\WbxTraining.dll
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\bin\Debug\netcoreapp2.1\WbxTraining.pdb
+C:\Users\cmontalvo\Documents\Visual Studio 2017\Projects\WbxTraining\WbxTraining.Tests\obj\Debug\netcoreapp2.1\WbxTraining.Tests.csproj.CopyComplete
